@@ -1,2 +1,2 @@
 # Github
-git clone https://github.com/username/username.github.io
+git clone https://github.com/alisoad0/alisoad0.github.io
